@@ -1,1 +1,4 @@
 .env
+__pycache__
+notebooks/structured_grader_ablation_results.csv
+notebooks/structured_grader_ablation_results.png
