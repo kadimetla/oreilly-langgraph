@@ -4,7 +4,6 @@ langchain-community
 langgraph
 langsmith
 langchain-mcp-adapters
-faiss-cpu
 openai
 chromadb
 langchain-chroma
@@ -16,3 +15,4 @@ tiktoken
 mcp
 sentence-transformers
 pandas
+matplotlib
